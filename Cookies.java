@@ -16,7 +16,6 @@ public class Cookies {
             } else {
                 System.out.println("There are no more cookies left in the cookie jar");
             }
-
         }
 
     }
